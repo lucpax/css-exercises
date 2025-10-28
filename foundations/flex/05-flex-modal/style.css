@@ -29,6 +29,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 8px;
 }
 
 .icon {
@@ -43,6 +46,10 @@ body {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
+}
+
+.text {
+  margin-bottom: 16px;
 }
 
 .close-button {
